@@ -1,1 +1,4 @@
 Used for getting raw urls
+
+https://raw.githubusercontent.com/MinhNguyen19/honours_project/refs/heads/main/datasets_ft/preprocessed_datasets/politics/LIAR.feather
+https://raw.githubusercontent.com/MinhNguyen19/honours_project/refs/heads/main/datasets_ft/preprocessed_datasets/politics/pheme.feather
